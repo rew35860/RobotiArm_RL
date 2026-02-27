@@ -5,8 +5,8 @@ from importlib import import_module
 SCENARIO_MODULES = {
     "circle": "scenarios.circle.eval_batch",
     "figure8": "scenarios.figure8.eval_batch",
-    "star5": "scenarios.star5.eval_batch",
-    "triangle": "scenarios.triangle.eval_batch",
+    # "star5": "scenarios.star5.eval_batch",
+    # "triangle": "scenarios.triangle.eval_batch",
 }
 
 

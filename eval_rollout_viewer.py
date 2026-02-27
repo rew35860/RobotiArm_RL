@@ -5,8 +5,8 @@ from importlib import import_module
 SCENARIO_MODULES = {
     "circle": "scenarios.circle.eval_rollout_viewer",
     "figure8": "scenarios.figure8.eval_rollout_viewer",
-    "star5": "scenarios.star5.eval_rollout_viewer",
-    "triangle": "scenarios.triangle.eval_rollout_viewer",
+    # "star5": "scenarios.star5.eval_rollout_viewer",
+    # "triangle": "scenarios.triangle.eval_rollout_viewer",
 }
 
 

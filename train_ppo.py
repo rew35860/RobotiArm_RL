@@ -5,8 +5,8 @@ from importlib import import_module
 SCENARIO_MODULES = {
     "circle": "scenarios.circle.train_ppo",
     "figure8": "scenarios.figure8.train_ppo",
-    "star5": "scenarios.star5.train_ppo",
-    "triangle": "scenarios.triangle.train_ppo",
+    # "star5": "scenarios.star5.train_ppo",
+    # "triangle": "scenarios.triangle.train_ppo",
 }
 
 
